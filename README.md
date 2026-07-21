@@ -4,7 +4,7 @@ Aplicación de escritorio en Java (Swing) que detecta oportunidades de **arbitra
  
 El problema se modela como un **grafo dirigido y ponderado** (cada moneda es un nodo, cada tasa es una arista con peso `-log(tasa)`), y se resuelve aplicando el algoritmo de **Bellman-Ford** para detectar ciclos de peso negativo, que equivalen matemáticamente a ciclos de arbitraje rentables.
  
-> Proyecto desarrollado para la asignatura **Técnicas de Programación 3**, Universidad Nacional Experimental de Guayana (UNEG), Período 2026-1, Sección 3.
+> Proyecto desarrollado para la asignatura **Técnicas de Programación 3**, Universidad Nacional Experimental de Guayana (UNEG), Período 2026-1, Sección 2.
  
 ---
  
